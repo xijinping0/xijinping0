@@ -2,6 +2,9 @@
 
 [![不换肩](https://img.youtube.com/vi/cdH-zKCQs1M/0.jpg)](https://www.youtube.com/watch?v=cdH-zKCQs1M)
 
+## 推荐阅读
+- 《[习近平与他的情人们](xijinping0.github.io/lovers/)》
+
 ## 我的最爱
 
 - 🚀 加速
