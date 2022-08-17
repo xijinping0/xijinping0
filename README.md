@@ -1,5 +1,7 @@
 # 大家好，我是习近平！
 
+[![不换肩](https://img.youtube.com/vi/cdH-zKCQs1M/0.jpg)](https://www.youtube.com/watch?v=cdH-zKCQs1M)
+
 ## 我的最爱
 
 - 🚀 加速
