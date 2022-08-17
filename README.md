@@ -1,16 +1,15 @@
-### Hi there 👋
+### 大家好，我是习近平！
 
-<!--
-**xijinping0/xijinping0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 我的最爱
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 加速
+- 🥟 庆丰包子
+- 💥 突开沼气池
+- 🐻 小熊维尼
+- 😅 精甚细腻
+- 🧥 通商宽衣
+- 🌾 十里山路不换肩
+- 🗒️ 小本本
+- 🧾 拉清单
+- 😇 头上三尺有神明
+- 📚 报书单
