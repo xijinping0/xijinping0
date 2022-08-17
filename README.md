@@ -3,7 +3,7 @@
 [![不换肩](https://img.youtube.com/vi/cdH-zKCQs1M/0.jpg)](https://www.youtube.com/watch?v=cdH-zKCQs1M)
 
 ## 推荐阅读
-- 《[习近平与他的情人们](xijinping0.github.io/lovers/)》
+- 《[习近平与他的情人们](https://xijinping0.github.io/lovers/)》
 
 ## 我的最爱
 
@@ -21,3 +21,10 @@
 - 😇 头上三尺有神明
 - 📚 报书单
 - 🌃 窜访香港，深圳过夜
+
+## 这些最讨厌了
+
+- 🛌 病床、老人、呼吸机
+- 💬 恶意上访
+- 🟥 8964
+- 👩 佩洛西
