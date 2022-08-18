@@ -18,8 +18,37 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+# 大家好，我是习近平！
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+## 视频访谈
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+| 200斤麦子十里山路不换肩 | 突开沼气池 |
+| --- | --- |
+| [![不换肩](https://img.youtube.com/vi/cdH-zKCQs1M/0.jpg)](https://www.youtube.com/watch?v=cdH-zKCQs1M) | [![突开](https://img.youtube.com/vi/B8V4rrKuTkE/0.jpg)](https://youtu.be/B8V4rrKuTkE?t=113) |
+
+## 推荐阅读
+- 《[习近平与他的情人们](https://lovers.xijinping.one)》
+
+## 我的最爱
+
+- 🚀 加速
+- 🌾 十里山路不换肩
+- 👑 连任
+- 0️⃣ 清零
+- 🥟 庆丰包子
+- 💥 突开沼气池
+- 🐻 小熊维尼
+- 😅 精甚细腻
+- 🧥 通商宽衣
+- 🗒️ 小本本
+- 🧾 拉清单
+- 😇 头上三尺有神明
+- 📚 报书单
+- 🌃 窜访香港，深圳过夜
+
+## 这些最讨厌了
+
+- 🛌 病床、老人、呼吸机
+- 💬 恶意上访
+- 🟥 8964
+- 👩 佩洛西
