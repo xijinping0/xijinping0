@@ -1,6 +1,10 @@
 # 大家好，我是习近平！
 
-[![不换肩](https://img.youtube.com/vi/cdH-zKCQs1M/0.jpg)](https://www.youtube.com/watch?v=cdH-zKCQs1M)
+## 视频访谈
+
+| 200斤麦子十里山路不换肩 | 突开沼气池 |
+| --- | --- |
+| [![不换肩](https://img.youtube.com/vi/cdH-zKCQs1M/0.jpg)](https://www.youtube.com/watch?v=cdH-zKCQs1M) | [![突开](https://img.youtube.com/vi/B8V4rrKuTkE/0.jpg)](https://youtu.be/B8V4rrKuTkE?t=113) |
 
 ## 推荐阅读
 - 《[习近平与他的情人们](https://xijinping0.github.io/lovers/)》
