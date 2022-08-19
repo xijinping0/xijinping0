@@ -1,5 +1,7 @@
 # 大家好，这里是习近平资料库！
 
+This is a repository about Jinpin Xi, president and dictator of the People's Republic of China.
+
 ## 推荐阅读
 - 《[习近平与他的情人们](https://lovers.xijinping.one)》
 
