@@ -15,6 +15,7 @@ This is a repository about Jinping Xi, president and dictator of the People's Re
 | 看看小本本 | [![小本本](https://img.youtube.com/vi/expxx4WNHgg/0.jpg)](https://youtu.be/expxx4WNHgg?t=63) |
 | 通商宽衣 | [![通商宽衣](https://img.youtube.com/vi/h0X9bkNPml8/0.jpg)](https://youtu.be/h0X9bkNPml8?t=114) |
 | 精甚细腻 | [![精甚细腻](https://img.youtube.com/vi/OBKQUDmWDRo/0.jpg)](https://youtu.be/OBKQUDmWDRo?t=4) |
+| 文化程度那么低 | [![文化程度那么低](https://img.youtube.com/vi/YSYQpaAI90A/0.jpg)](https://youtu.be/YSYQpaAI90A?t=258) |
 
 ## 瓶瓶的最爱
 
