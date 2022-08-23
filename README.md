@@ -7,7 +7,7 @@ This is a repository about Jinping Xi, president and dictator of the People's Re
 
 ## 经典视频
 
-|     | 视频 |
+|     | 视频（点击预览图片可跳转至 Youtube 观看） |
 | --- | --- |
 | 200斤麦子十里山路不换肩 | [![不换肩](https://img.youtube.com/vi/cdH-zKCQs1M/0.jpg)](https://youtu.be/cdH-zKCQs1M?t=2) |
 | 突开沼气池 | [![突开](https://img.youtube.com/vi/B8V4rrKuTkE/0.jpg)](https://youtu.be/B8V4rrKuTkE?t=113) |
