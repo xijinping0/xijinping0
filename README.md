@@ -13,6 +13,7 @@ This is a repository about Jinping Xi, president and dictator of the People's Re
 | 突开沼气池 | [![突开](https://img.youtube.com/vi/B8V4rrKuTkE/0.jpg)](https://youtu.be/B8V4rrKuTkE?t=113) |
 | 小心今后拉清单 | [![拉清单](https://img.youtube.com/vi/iBg0UhhV72E/0.jpg)](https://youtu.be/iBg0UhhV72E?t=113) |
 | 看看小本本 | [![小本本](https://img.youtube.com/vi/expxx4WNHgg/0.jpg)](https://youtu.be/expxx4WNHgg?t=63) |
+| 没有、没有、通过！ | [![没有通过](https://img.youtube.com/vi/Fdc-m5hTRpk/0.jpg)](https://youtu.be/Fdc-m5hTRpk?t=12) |
 | 通商宽衣 | [![通商宽衣](https://img.youtube.com/vi/h0X9bkNPml8/0.jpg)](https://youtu.be/h0X9bkNPml8?t=114) |
 | 精甚细腻 | [![精甚细腻](https://img.youtube.com/vi/OBKQUDmWDRo/0.jpg)](https://youtu.be/OBKQUDmWDRo?t=4) |
 | 文化程度那么低 | [![文化程度那么低](https://img.youtube.com/vi/YSYQpaAI90A/0.jpg)](https://youtu.be/YSYQpaAI90A?t=258) |
