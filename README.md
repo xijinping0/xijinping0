@@ -2,6 +2,10 @@
 
 This is a repository about Jinping Xi, president and dictator of the People's Republic of China.
 
+![banner](https://pbs.twimg.com/media/FfU3XLIVUAA_el2?format=jpg&name=small)
+
+[Credit](https://www.reddit.com/r/real_China_irl/comments/y6usta)
+
 ## 推荐阅读
 - 《[习近平与他的情人们](https://lovers.xijinping.one)》
 
