@@ -17,7 +17,7 @@ This is a repository about Jinping Xi, president and dictator of the People's Re
 | 200斤麦子十里山路不换肩 | [![不换肩](https://img.youtube.com/vi/cdH-zKCQs1M/0.jpg)](https://youtu.be/cdH-zKCQs1M?t=2) |
 | 突开沼气池 | [![突开](https://img.youtube.com/vi/B8V4rrKuTkE/0.jpg)](https://youtu.be/B8V4rrKuTkE?t=113) |
 | 小心今后拉清单 | [![拉清单](https://img.youtube.com/vi/iBg0UhhV72E/0.jpg)](https://youtu.be/iBg0UhhV72E?t=113) |
-| 看看小本本 | [![小本本](https://img.youtube.com/vi/expxx4WNHgg/0.jpg)](https://youtu.be/expxx4WNHgg?t=63) |
+| 看看小本本 | [![小本本](https://img.youtube.com/vi/LmWSMJPJrjA/0.jpg)](https://youtu.be/LmWSMJPJrjA) |
 | 没有、没有、通过！ | [![没有通过](https://img.youtube.com/vi/Fdc-m5hTRpk/0.jpg)](https://youtu.be/Fdc-m5hTRpk?t=12) |
 | 吃饱没事干 | [![吃饱没事干](https://img.youtube.com/vi/aG903lJtC7M/0.jpg)](https://youtu.be/aG903lJtC7M?t=40) |
 | 通商宽衣 | [![通商宽衣](https://img.youtube.com/vi/h0X9bkNPml8/0.jpg)](https://youtu.be/h0X9bkNPml8?t=114) |
