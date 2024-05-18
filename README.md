@@ -2,7 +2,7 @@
 
 This is a repository about Jinping Xi, president and dictator of the People's Republic of China.
 
-![banner](https://pbs.twimg.com/media/FfU3XLIVUAA_el2?format=jpg&name=small)
+<image src="./banner.jpg" width=50% />
 
 [Credit](https://www.reddit.com/r/real_China_irl/comments/y6usta)
 
