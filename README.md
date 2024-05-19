@@ -24,6 +24,7 @@ This is a repository about Jinping Xi, president and dictator of the People's Re
 | 精甚细腻 | [![精甚细腻](https://img.youtube.com/vi/OBKQUDmWDRo/0.jpg)](https://youtu.be/OBKQUDmWDRo?t=4) |
 | 习主席他很细 | [![突开](https://img.youtube.com/vi/gNsz_y_XhyE/0.jpg)](https://youtu.be/gNsz_y_XhyE) |
 | 文化程度那么低 | [![文化程度那么低](https://img.youtube.com/vi/YSYQpaAI90A/0.jpg)](https://youtu.be/YSYQpaAI90A?t=258) |
+| 和普京大大爱的拥抱 | [![和普京大大爱的拥抱](https://img.youtube.com/vi/R14CypJvD0s/0.jpg)](https://youtu.be/R14CypJvD0s?t=15)
 
 ## 瓶瓶的最爱
 
@@ -41,6 +42,7 @@ This is a repository about Jinping Xi, president and dictator of the People's Re
 - 😇 头上三尺有神明
 - 📚 报书单
 - 🌃 窜访香港，深圳过夜
+- 🇷🇺 普京大大
 
 ## 这些最讨厌了
 
