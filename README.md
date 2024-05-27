@@ -2,13 +2,13 @@
 
 This is a repository about Jinping Xi, president and dictator of the People's Republic of China.
 
-![banner](https://raw.githubusercontent.com/xijinping0/xijinping0/master/banner.jpg)
+<img src="https://raw.githubusercontent.com/xijinping0/xijinping0/master/banner.jpg" alt="banner" width=50% />
 
 [出处](https://www.reddit.com/r/real_China_irl/comments/y6usta)
 
 ## 推荐阅读
-- 《[习近平与他的情人们](https://lovers.xijinping.one)》
-- 《[红色赌盘](https://roulette.xijinping.one)》
+- 《[习近平与他的情人们](https://books.xijinping.one/lovers)》
+- 《[红色赌盘](https://books.xijinping.one/roulette)》
 
 ## 经典视频
 
