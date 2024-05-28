@@ -7,8 +7,9 @@ This is a repository about Jinping Xi, president and dictator of the People's Re
 [出处](https://www.reddit.com/r/real_China_irl/comments/y6usta)
 
 ## 推荐阅读
-- 《[习近平与他的情人们](https://books.xijinping.one/lovers)》
+- 《[墓碑](https://books.xijinping.one/tombstone)》
 - 《[红色赌盘](https://books.xijinping.one/roulette)》
+- 《[习近平与他的情人们](https://books.xijinping.one/lovers)》
 
 ## 经典视频
 
